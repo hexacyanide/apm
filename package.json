@@ -27,7 +27,6 @@
     "first-mate": "^5.0",
     "fs-plus": "2.x",
     "git-utils": "^4.0",
-    "keytar": "^3.0",
     "mv": "2.0.0",
     "ncp": "~0.5.1",
     "npm": "2.13.3",
@@ -51,5 +50,8 @@
     "express": "~3.2.3",
     "grunt-coffeelint": "0.0.13",
     "coffee-script": "^1.8.0"
+  },
+  "optionalDependencies": {
+    "keytar": "^3.0"
   }
 }
